@@ -1,0 +1,23 @@
+{
+  "name": "drop-down-menus",
+  "version": "1.0.0",
+  "description": "This is a short project about dynamic user interface interactions. Includes a menu which appears on hover.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrea-enrica/drop-down-menus.git"
+  },
+  "author": "Andrea-Enrica Iordache",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrea-enrica/drop-down-menus/issues"
+  },
+  "homepage": "https://github.com/andrea-enrica/drop-down-menus#readme",
+  "devDependencies": {
+    "webpack": "^5.24.2",
+    "webpack-cli": "^4.5.0"
+  }
+}
